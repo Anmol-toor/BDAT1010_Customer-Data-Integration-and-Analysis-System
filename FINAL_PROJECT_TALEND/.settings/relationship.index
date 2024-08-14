@@ -1,1 +1,24 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_JTPH4FnDEe-kA9vTLPHhgw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_MED80FnbEe-io-ZcwKVZaA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ZTcPkFnYEe-io-ZcwKVZaA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_MED80FnbEe-io-ZcwKVZaA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ZTcPkFnYEe-io-ZcwKVZaA - my2023_fuel_consumption_ratings",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
